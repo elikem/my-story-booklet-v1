@@ -1,0 +1,7 @@
+{
+  "deploy": {
+    "env": "production",
+    "static": "/public",
+    "sidekiq": true
+  }
+}

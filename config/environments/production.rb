@@ -84,8 +84,17 @@ Rails.application.configure do
       :address              => 'smtp.gmail.com',
       :port                 => 587,
       :user_name            => 'tsw@cru.org',
-      :password             => Rails.application.secrets.tsw_email_password,
+      :password             => ENV['TSW_EMAIL_PASSWORD'],
       :authentication       => 'plain',
       :enable_starttls_auto => true
   }
+
+  # Redis configuration for Clever Cloud
+  Sidekiq.configure_server do |config|
+    config.redis = { url: ENV['REDIS_URL'] }
+  end
+  
+  Sidekiq.configure_client do |config|
+    config.redis = { url: ENV['REDIS_URL'] }
+  end
 end

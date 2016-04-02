@@ -16,6 +16,7 @@ test:
 
 production:
   <<: *default
-  database: my-story-booklet
-  username: <%= Rails.application.secrets.db_username %>
-  password: <%= Rails.application.secrets.db_password %>
+  database: <%= ENV["POSTGRESQL_ADDON_DB"] %>
+  host: <%= ENV["POSTGRESQL_ADDON_HOST"] %>
+  username: <%= ENV["POSTGRESQL_ADDON_USER"] %>
+  password: <%= ENV["POSTGRESQL_ADDON_PASSWORD"] %>
