@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u3116" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0" SpaceAfter="4.32">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r132g108b79" FontStyle="Bold" PointSize="8" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>PEOPLE ARE SEPARATED</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r132g108b79" PointSize="8" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>“For the wages of sin is death…</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> [separation from God]</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>.”</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>  	       </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>(Romans 6:23)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0" FirstLineIndent="13.5" Justification="LeftJustified">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>This diagram illustrates there is a great separation between us and God because we are im­perfect and God is holy and perfect.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0" FirstLineIndent="13.5" SpaceAfter="4.32" Justification="LeftJustified">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-10">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>The arrows illustrate that when we try to reach God</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> to meet our heart longing by our own efforts, we in­ev­it­ably fail.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=45 M=20 Y=90 K=10" FontStyle="Italic" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="36">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=45 M=20 Y=90 K=10" FontStyle="Italic" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="90">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">108</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=45 M=20 Y=90 K=10" FontStyle="Italic" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="81">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">108</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=45 M=20 Y=90 K=10" FontStyle="Italic" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>The third point explains the  only way to bridge the separation between us and God…</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="90">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=70 M=50 Y=20 K=10" FontStyle="Black" PointSize="8" Tracking="-20" Capitalization="AllCaps" ParagraphBreakType="NextColumn">
+				<Properties>
+					<Leading type="unit">8</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

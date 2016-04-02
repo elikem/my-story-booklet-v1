@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u31ce" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0" FirstLineIndent="13.5" SpaceAfter="10.799999999999999" Justification="LeftJustified">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>When a heart longing is awakened in us, what</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-10">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> is that longing ex­pressing? British author C. S. Lewis explained a heart longing this way:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" DropCapCharacters="1" DropCapLines="2" LeftIndent="11.25">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=0 M=70 Y=100 K=30" FontStyle="Display HTF Roman" PointSize="13" KerningValue="-40">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Requiem</AppliedFont>
+				</Properties>
+				<Content>I</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>t is sometimes felt as a longing for a far off country, but not a particular earthly land which we can identify….It may seem as a longing for a someone  or even a something. But the majority of the people  who experience it are not conscious of what or who  the longed for objective may be. Indeed, the longing  is of such profundity and intensity that the subject may immediately be only aware of the emotion itself and  not cognizant that there is a something longed for. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r178g157b132" FontStyle="Semibold" PointSize="9" Capitalization="AllCaps">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="13.5" SpaceAfter="9" Justification="CenterAlign">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r178g157b132" FontStyle="Semibold" PointSize="7" Capitalization="AllCaps">
+				<Properties>
+					<Leading type="unit">14</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>[ </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r178g157b132" FontStyle="Semibold" PointSize="5" Capitalization="AllCaps">
+				<Properties>
+					<Leading type="unit">14</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>excerpt from</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r178g157b132" FontStyle="Semibold" PointSize="7" Capitalization="AllCaps">
+				<Properties>
+					<Leading type="unit">14</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r178g157b132" FontStyle="Semibold Italic" PointSize="7">
+				<Properties>
+					<Leading type="unit">14</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>Pilgrims’ Regress</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r178g157b132" FontStyle="Semibold" PointSize="7" Capitalization="AllCaps">
+				<Properties>
+					<Leading type="unit">14</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content> ]</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r178g157b132" FontStyle="Semibold" PointSize="7" Capitalization="AllCaps">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0" FirstLineIndent="13.5" SpaceAfter="4.32" Justification="LeftJustified">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>How would you describe your heart longing? Do you picture anything in your mind? Does any particular place or person enter your thoughts?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0" FirstLineIndent="13.5" Justification="LeftJustified">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>Many people choose God to be their life foundation and meet their heart longing.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="10">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

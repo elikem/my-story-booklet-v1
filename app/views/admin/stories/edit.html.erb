@@ -1,0 +1,35 @@
+<div id="main">
+  <br>
+
+  <%= render "admin/stories/sub_navigation" %>
+
+  <div class="row">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="media">
+          <div class="panel-body" style="background-color: orange; color: #FFF;">
+            <h4 style="text-align: center;"><%= @user.username.upcase %>'S STORY</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-8">
+      <% if @story.nil? %>
+          <h2>Whoops, this user does not have a story yet.</h2>
+      <% end %>
+
+      <div class="froala-view" style="min-height: initial;">
+        <%= render 'admin/stories/form_admin_my_story' %>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <%= render 'stories/submission_errors' %>
+      <%= render 'admin/stories/form_admin_first_name_phrase' %>
+      <%= render 'admin/stories/publish_admin_my_story' %>
+    </div>
+  </div>
+</div>

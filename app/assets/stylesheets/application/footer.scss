@@ -1,0 +1,13 @@
+.footer {
+  margin-top: 50px;
+
+  &> ul li a {
+    color: #448aff;
+    text-decoration: none;
+
+    &:hover {
+      color: #448aff;
+      text-decoration: underline;
+    }
+  }
+}

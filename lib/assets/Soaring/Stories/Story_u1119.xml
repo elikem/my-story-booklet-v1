@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u1119" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="26.11689008042895" RuleAboveLineWeight="0.7254691689008042" RuleBelowLineWeight="0.7254691689008042" Justification="RightAlign">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" Capitalization="AllCaps" KerningValue="-36" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content>Can God</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" Capitalization="AllCaps" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content>  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content>Meet</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book Italic" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" KerningValue="-36" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=0 M=20 Y=60 K=0" FontStyle="Book Italic" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" KerningValue="-36" FillTint="50" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content>the</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book Italic" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" KerningValue="-36" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book Italic" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content>Longing</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book Italic" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=0 M=20 Y=60 K=0" FontStyle="Book Italic" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" KerningValue="-36" FillTint="50" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content>of</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book Italic" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" KerningValue="64" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" KerningValue="-156" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content>Y</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" KerningValue="-36" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content>our </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" Tracking="-20" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Book" PointSize="40" HorizontalScale="110.00000000000001" StrokeWeight="0.7254691689008042" KerningValue="-36" RubyFontSize="-0.7254691689008042" KentenFontSize="-0.7254691689008042">
+				<Properties>
+					<Leading type="unit">38</Leading>
+					<AppliedFont type="string">Dyadis ITC</AppliedFont>
+				</Properties>
+				<Content>Heart?</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

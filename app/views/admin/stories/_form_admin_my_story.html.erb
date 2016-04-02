@@ -1,0 +1,25 @@
+<%= form_for @story, url: admin_story_path, role: 'form', method: :patch, html: {class: 'my-story-editor'} do |f| %>
+    <div class="form-group">
+      <%= f.text_area :text, id: 'text-editor' %>
+    </div>
+
+    <%= button_tag 'Save User\'s Story', class: 'btn btn-success', style: 'font-family: Lato, sans-serif; font-size: 16px;' %>
+
+    <script>
+        $(function () {
+            $('textarea#text-editor')
+                    .editable({
+                        key: '2F-7nkmuieD-8qpkmgwF4fij==',
+                        inlineMode: false,
+                        // remove toolbar formatting options
+                        buttons: [],
+                        minHeight: 240,
+                        placeholder: 'Start typing something...',
+                        paragraphy: false,
+                        plainPaste: true,
+                        spellcheck: true,
+                        shortcuts: false
+                    });
+        });
+    </script>
+<% end %>

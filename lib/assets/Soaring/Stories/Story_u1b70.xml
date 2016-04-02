@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u1b70" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Hyphenation="false" Justification="CenterAlign">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="6">
+				<Properties>
+					<Leading type="unit">7</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>1-56399-408-9</Content>
+				<Br />
+				<Content>©2013 The Significance Project and Bright Media Foundation.  A version of </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic" PointSize="6">
+				<Properties>
+					<Leading type="unit">7</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>Would You Like to Know God Personally?</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="6">
+				<Properties>
+					<Leading type="unit">7</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content> written by Bill Bright ©1976-2012 Bright Media Foundation. All rights reserved. Adapted with permission by Bright Media Foundation.  No part of this booklet may  be changed in any way, reproduced in any form, or stored or transmitted  by computer or electronic means without written permission.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

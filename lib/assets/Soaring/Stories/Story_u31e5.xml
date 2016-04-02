@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u31e5" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="18" SpaceAfter="4.32">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">27</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=30 M=70 Y=60 K=20" PointSize="10" Tracking="-5">
+				<Properties>
+					<Leading type="unit">16</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>Our heart longs for a connection that makes  	sense of life, a place where we are  	loved and forgiven and have  	purpose and direction.  When we do not have a strong  	life foundation that provides these things,  	this creates the deepest longing of our life,  	a heart longing.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r132g108b79" PointSize="10" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="36" FirstLineIndent="-18" SpaceAfter="4.32">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="10">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0" FirstLineIndent="13.5" SpaceAfter="4.32" Justification="LeftJustified">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>Sometimes our heart longing is awakened by the awe and wonder we feel when we see the glaciers of Alaska breaking off into the ocean, or a gorgeous multi-colored sunrise light­ing up the beach, or when holding a newborn baby. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-10">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0" SpaceAfter="4.32" Justification="LeftJustified">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-20" ParagraphBreakType="NextColumn">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

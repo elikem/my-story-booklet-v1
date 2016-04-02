@@ -1,0 +1,18 @@
+<!-- Start First Name Phrase Form -->
+<%= form_for @story, url: admin_story_path, role: 'form', method: :patch, html: {class: 'my-story-editor'} do |f| %>
+    <div class="panel panel-default panel-shadow">
+      <div class="panel-heading panel-heading-light-grey">
+        <h4 class="panel-title">Enter First Name Phrase</h4>
+      </div>
+
+      <div class="panel-body">
+        <div class="form-group">
+          <%= f.text_field :authors_name, placeholder: 'Susan\'s Story', class: 'form-control' %>
+          <p class="text-light-gray">e.g. Susan's Story</p>
+        </div>
+
+        <%= button_tag 'Save User\'s First Name Phrase', class: 'btn btn-success' %>
+      </div>
+    </div>
+<% end %>
+<!-- End First Name Phrase Form -->

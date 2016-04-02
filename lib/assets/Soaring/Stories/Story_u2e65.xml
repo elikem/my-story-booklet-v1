@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u2e65" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="35.31546159014802" RuleAboveLineWeight="1.0573437536885482" RuleBelowLineWeight="1.0573437536885482" Justification="CenterAlign">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Display HTF Roman" PointSize="16.190662886023066" HorizontalScale="92.77825123084399" StrokeWeight="1.0184490212651083" FillTint="50" MiterLimit="3.809567737887749" RubyFontSize="-1.0573437536885482" RubyXScale="92.77825123084399" KentenFontSize="-1.0573437536885482" KentenXScale="92.77825123084399">
+				<Properties>
+					<Leading type="unit">7.619135475775561</Leading>
+					<AppliedFont type="string">Requiem</AppliedFont>
+				</Properties>
+				<Content>&amp;</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

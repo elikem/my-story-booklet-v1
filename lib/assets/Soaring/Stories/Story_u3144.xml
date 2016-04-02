@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u3144" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="18" SpaceAfter="9">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=70 M=50 Y=20 K=10" FontStyle="Black" PointSize="8" Tracking="-5" Capitalization="AllCaps">
+				<Properties>
+					<Leading type="unit">8</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>God Loves You Unconditionally and Created You To Know Him Personally.  He Wants to Meet Your Heart Longing  and Be Your Life Foundation.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">8</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r132g108b79" FontStyle="Bold" PointSize="8" Tracking="-5">
+				<Properties>
+					<Leading type="unit">8</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>GOD’S LOVE</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r132g108b79" FontStyle="Bold" PointSize="8" Tracking="-5">
+				<Properties>
+					<Leading type="unit">9</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="13.5" SpaceAfter="4.32">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>“For God loved the world so much that he gave his one  and only Son, so that everyone who believes in him will  not perish but have eternal life.”</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>(John 3:16)*</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r132g108b79" FontStyle="Bold" PointSize="8" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>GOD’S PLAN</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r132g108b79" PointSize="8" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="13.5" SpaceAfter="4.32">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>“And this is the way to have eternal life—to know you,  the only true God, and Jesus Christ, the one you sent to earth.”</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>(John 17:3)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="6" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>“I came that they may have life, and have it abundantly.”</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>(</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>John 10:10)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="9">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=70 M=50 Y=20 K=10" FontStyle="Black" PointSize="7" Tracking="-5" Capitalization="AllCaps">
+				<Properties>
+					<Leading type="unit">8</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="0" SpaceAfter="4.32">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=45 M=20 Y=90 K=10" FontStyle="Italic" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>	What prevents us from knowing God personally?</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=45 M=20 Y=90 K=10" FontStyle="Black" PointSize="8" Tracking="-5" Capitalization="AllCaps" ParagraphBreakType="NextColumn">
+				<Properties>
+					<Leading type="unit">8</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

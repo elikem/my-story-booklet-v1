@@ -1,0 +1,72 @@
+<div id="main">
+  <div class="row">
+    <div class="col-md-4 col-md-offset-4">
+
+      <div class="login">
+        <%= devise_error_messages! %>
+
+        <h2>Edit <%= resource_name.to_s.humanize %></h2>
+        <div class="panel panel-default panel-shadow">
+          <%= form_for(resource, as: resource_name, url: registration_path(resource_name), html: { method: :put }) do |f| %>
+              <div class="panel-body">
+                <div class="form-group">
+                  <%= f.label :username %><br />
+                  <em>(you cannot change your username, you can delete and create a new account)</em>
+                  <%= f.text_field :username, autofocus: true, class: 'form-control', placeholder: 'Enter username' %>
+                </div>
+
+                <div class="form-group">
+                  <%= f.label 'Email Address' %><br />
+                  <%= f.email_field :email, class: 'form-control', placeholder: 'Enter email' %>
+                </div>
+
+                <% if devise_mapping.confirmable? && resource.pending_reconfirmation? %>
+                    <div class="form-group">
+                      <div>Currently waiting confirmation for: <%= resource.unconfirmed_email %></div>
+                    </div>
+                <% end %>
+
+                <div class="form-group">
+                  <div class="media">
+                    <div class="media-body media-middle">
+                      <%= f.label :password %>
+                    </div>
+                    <div class="media-right media-middle">
+                      <a href="#" class="small pull-right">Forgot?</a>
+                    </div>
+                  </div>
+                  <i>(leave blank if you don't want to change it)</i><br />
+                  <%= f.password_field :password, autocomplete: "off", class: 'form-control', placeholder: 'Change password' %>
+                </div>
+
+                <div class="form-group">
+                  <%= f.label :password_confirmation %><br />
+                  <%= f.password_field :password_confirmation, autocomplete: "off", class: 'form-control', placeholder: 'Confirm new password' %>
+                </div>
+
+                <div class="form-group margin-none">
+                  <%= f.label :current_password %><br />
+                  <i>(we need your current password to confirm your changes)</i><br/>
+                  <%= f.password_field :current_password, autocomplete: "off", class: 'form-control', placeholder: 'Enter current password' %>
+                </div>
+              </div>
+
+              <div class="form-group text-center">
+                <%= button_tag(type: 'submit', class: 'btn btn-primary') do %>
+                    Update <i class="md md-assignment"></i>
+                <% end %>
+              </div>
+          <% end %>
+
+        </div>
+
+        <div>
+          <%= render "devise/shared/links" %>
+
+          <h3>Cancel my account</h3>
+          <p>Unhappy? <%= button_to "Cancel my account", registration_path(resource_name), data: { confirm: "Are you sure?" }, method: :delete %></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

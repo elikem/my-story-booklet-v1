@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u302f" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="9" FirstLineIndent="-7.2" SpaceAfter="4.32">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=70 M=50 Y=20 K=10" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>•</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> You can know God better and follow Him as you do what He asks you to do. </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>	“He loves you and has your best in mind.”</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>(John 14:21 </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7" Tracking="-5" Capitalization="SmallCaps">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>lb</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=70 M=50 Y=20 K=10" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>•</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> You will know God better by letting others see Christ by your life and words so they also can experience His great love for them. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>(Matthew 4:19; John 15:8)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=70 M=50 Y=20 K=10" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>•</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> You will know God better as you trust Him for every </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-10">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>detail of your life. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic" PointSize="9" Tracking="-10">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>“Give all your worries and cares to God </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>for he cares about what happens to you.”</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>(1 Peter 5:7)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=70 M=50 Y=20 K=10" PointSize="9" Tracking="-5">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>•</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> You will have the power to know God better as you  allow the Holy Spirit to control and empower your daily life. He will em­power every aspect of your life. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content>(Gal. 5:16, 17; Acts 1:8)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="-20">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.7 inset" LeftIndent="9" FirstLineIndent="-7.2" SpaceAfter="9">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">36</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/r132g108b79" FontStyle="Bold" PointSize="8" Tracking="-5" Capitalization="AllCaps" ParagraphBreakType="NextColumn">
+				<Properties>
+					<Leading type="unit">9</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

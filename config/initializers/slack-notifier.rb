@@ -1,0 +1,1 @@
+SLACK_NOTIFIER = Slack::Notifier.new 'https://hooks.slack.com/services/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'

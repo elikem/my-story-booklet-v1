@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u2fc1" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<XMLElement Self="di2i9" MarkupTag="XMLTag/author" XMLContent="u2fc1">
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Story paragraph -- Author&apos;s Name">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="12">
+					<Content>Cativ Sautem im’s Story Lores</Content>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+		</XMLElement>
+	</Story>
+</idPkg:Story>

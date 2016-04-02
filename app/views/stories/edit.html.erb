@@ -1,0 +1,31 @@
+<div id="main">
+
+  <br/>
+
+  <%= render 'sub_navigation' %>
+
+  <div class="page-header">
+    <div class="row">
+      <div class="col-md-12">
+        <br/>
+        <h4 class="headline"><i class="md md-border-color"></i> MY STORY EDITOR</h4>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <!-- Start Edit Form -->
+    <div class="col-md-8 left-main" style="margin-bottom: 20px;">
+        <%= render 'form_my_story' %>
+    </div>
+    <!-- End Edit Form -->
+
+    <!-- Start Sidebar -->
+    <div class="col-md-4 right-aside">
+      <%= render 'submission_errors' %>
+      <%= render 'form_first_name_phrase' %>
+      <%= render 'publish_my_story' %>
+    </div>
+    <!-- End Sidebar -->
+  </div>
+</div>

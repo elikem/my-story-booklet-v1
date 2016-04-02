@@ -1,0 +1,66 @@
+<div id="main">
+  <br>
+
+  <%= render "admin/admin/sub_navigation" %>
+
+  <div class="row">
+    <div class="col-md-8 left-main">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h4>API Keys</h4>
+          <br>
+
+          <table class="table table-striped">
+            <tr>
+              <th>Name</th>
+              <th>Key</th>
+              <th>Status</th>
+              <th>Action</th>
+            </tr>
+
+            <% @api_keys.each do |key| %>
+                <tr <% if key.active == false %> class="warning" <% end %>>
+                  <td><%= key.name %></td>
+                  <td><%= key.key %></td>
+                  <td>
+                    <% if key.active == true %>
+                        Active
+                    <% else %>
+                        Not Active
+                    <% end %>
+                  </td>
+                  <td>
+                    <span style="font-size: 12px;">
+                      <a href="<%= admin_api_key_regenerate_path("name": key.name) %>">Regenerate Key</a>
+                        &nbsp;&nbsp; | &nbsp;&nbsp;
+                      <% if key.active %>
+                        <a href="<%= admin_api_key_deactivate_path("name": key.name) %>">Deactivate</a>
+                      <% else %>
+                        <a href="<%= admin_api_key_activate_path("name": key.name) %>">Activate</a>
+                      <% end %>
+                        &nbsp;&nbsp; | &nbsp;&nbsp;
+                      <a href="<%= admin_api_key_destroy_path("name": key.name) %>">Delete</a>
+                    </span>
+                  </td>
+                </tr>
+            <% end %>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 left-main">
+      <div class="panel panel-default">
+        <div class="panel-heading">Create API Key</div>
+        <div class="panel-body">
+          <%= form_tag admin_api_key_create_path, method: :patch do %>
+              <p>
+                <%= text_field_tag :name, params[:name], placeholder: 'Enter Key Name' %>
+                <%= submit_tag "Create Key" %>
+              </p>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

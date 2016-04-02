@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u2e43" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="10.926279725648142" RuleAboveLineWeight="0.25494652693178993" RuleBelowLineWeight="0.25494652693178993" Justification="RightAlign">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=31 M=35 Y=49 K=1" PointSize="9.189833631965763" HorizontalScale="114.99999999999999" StrokeWeight="0.27816946615024396" Tracking="10" Capitalization="AllCaps" MiterLimit="1.1126778646009758" RubyFontSize="-0.25494652693178993" RubyXScale="119.04761904761905" KentenFontSize="-0.25494652693178993" KentenXScale="119.04761904761905">
+				<Properties>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>adventure</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

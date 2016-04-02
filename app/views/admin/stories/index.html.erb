@@ -1,0 +1,35 @@
+<div id="main">
+  <br>
+
+  <%= render "admin/stories/sub_navigation" %>
+
+  <div class="row">
+    <div class="col-md-8 left-main">
+      <div class="panel panel-default">
+        <div class="media">
+          <div class="panel-body">
+            <h3>List of Users</h3>
+            <br>
+            <%= will_paginate @users, :param_name => :page %>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 left-main">
+      <div class="panel panel-default">
+        <div class="media">
+          <div class="panel-body">
+            <h4>User Search</h4>
+            <%= form_tag admin_stories_path, :method => 'get' do %>
+                <p>
+                  <%= text_field_tag :search, params[:search] %>
+                  <%= submit_tag "Search", :name => nil %>
+                </p>
+            <% end %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

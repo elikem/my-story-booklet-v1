@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Tags xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<XMLTag Self="XMLTag/author" Name="author">
+		<Properties>
+			<TagColor type="enumeration">Fiesta</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/drop_cap" Name="drop_cap">
+		<Properties>
+			<TagColor type="enumeration">BrickRed</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/Root" Name="Root">
+		<Properties>
+			<TagColor type="enumeration">White</TagColor>
+		</Properties>
+	</XMLTag>
+	<XMLTag Self="XMLTag/story" Name="story">
+		<Properties>
+			<TagColor type="enumeration">GrassGreen</TagColor>
+		</Properties>
+	</XMLTag>
+</idPkg:Tags>

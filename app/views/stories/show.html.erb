@@ -1,0 +1,28 @@
+<div id="main">
+
+  <br/>
+
+  <%= render 'sub_navigation' %>
+
+  <div class="page-header">
+    <div class="row">
+      <div class="col-md-12">
+        <br/>
+        <% unless @story.text.nil? || @story.text.length == 0 %>
+            <h4 class="headline"><i class="fa fa-book"></i> PREVIEW OF MY STORY</h4>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="<%= (!@story.text.nil? && @story.text.length > 0) ? 'col-md-8' : 'col-md-6' %> left-main">
+      <div class="froala-view">
+        <%= render 'show_booket_cover' %>
+        <%= render 'show_my_story' %>
+      </div>
+    </div>
+
+    <%= render 'checklist' %>
+  </div>
+</div>

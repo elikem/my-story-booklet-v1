@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="ue36" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" LeftIndent="27" FirstLineIndent="-12.6" Hyphenation="false">
+			<Properties>
+				<TabList type="list">
+					<ListItem type="record">
+						<Alignment type="enumeration">LeftAlign</Alignment>
+						<AlignmentCharacter type="string">.</AlignmentCharacter>
+						<Leader type="string"></Leader>
+						<Position type="unit">14</Position>
+					</ListItem>
+				</TabList>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=45 M=20 Y=90 K=10" FontStyle="Bold" PointSize="9">
+				<Properties>
+					<Leading type="unit">14</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Content>Christ-Directed Life</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold" PointSize="9">
+				<Properties>
+					<Leading type="unit">14</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="10" BaselineShift="-1" KerningValue="-80">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>†</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="10" BaselineShift="-1">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Content>– Christ is in the life  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8">
+				<Properties>
+					<Leading type="unit">8.5</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Content>and on the throne.</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Semibold" PointSize="7">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>S</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7" KerningValue="140">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Content>– Self is yielding  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8">
+				<Properties>
+					<Leading type="unit">8.5</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Content>to Christ.</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" Ligatures="false" BaselineShift="-1" OTFContextualAlternate="false">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+					<OpenTypeFeatures type="list">
+						<ListItem type="list">
+							<ListItem type="string">$ID/titl</ListItem>
+							<ListItem type="long">1</ListItem>
+						</ListItem>
+					</OpenTypeFeatures>
+				</Properties>
+				<Content>•</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" Ligatures="false" BaselineShift="-1" OTFContextualAlternate="false">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8">
+				<Properties>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Content>– Interests are  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8">
+				<Properties>
+					<Leading type="unit">8.5</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Content>directed by Christ  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8" HorizontalScale="97" Tracking="-3">
+				<Properties>
+					<Leading type="unit">8.5</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Content>resulting in harmony</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8">
+				<Properties>
+					<Leading type="unit">8.5</Leading>
+					<AppliedFont type="string">Adobe Garamond Pro</AppliedFont>
+				</Properties>
+				<Content>  with God’s plan.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

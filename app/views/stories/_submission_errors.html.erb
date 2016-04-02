@@ -1,0 +1,18 @@
+<div class="panel panel-default panel-shadow" style="<%= 'display:none;' if @story.errors.count < 1 %>">
+  <div class="media">
+    <div class="panel-body">
+      <h4 class="headline">Submission Errors</h4>
+
+      <p><%= pluralize(@story.errors.count, "error") %> found:</p>
+      <% if @story.errors.any? %>
+          <div id="error_explanation">
+            <ul class="text-danger">
+              <% @story.errors.full_messages.each do |msg| %>
+                  <li><%= msg %></li>
+              <% end %>
+            </ul>
+          </div>
+      <% end %>
+    </div>
+  </div>
+</div>

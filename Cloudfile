@@ -1,0 +1,21 @@
+my-story-booklet:
+  ruby_version: 2.2.2
+  environment: production # RAILS_ENV
+  domains:
+    - mystorybooklet.com
+    - www.mystorybooklet.com
+    - my-story-booklet.shellyapp.com
+  servers:
+    app1:
+      size: large
+      thin: 2
+      whenever: on
+      sidekiq: 1
+      # delayed_job: 1
+      # clockwork: on
+      # elasticsearch: on
+      databases:
+        - postgresql
+        - redis
+        # - mysql
+        # - mongodb

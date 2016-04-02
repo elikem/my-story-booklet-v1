@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="document" readerVersion="6.0" featureSet="257" product="11.0(72)" ?>
+<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0" Self="d" StoryList="ue36 ufa3 u1036 u1103 u1119 u13e8 u14cc u157f u17d7 u17ed u1840 u19d3 u1a2c u1b70 u1b86 u2427 u244c u246a u2480 u254e u2564 u257a u284d u2911 u292f u2945 u295e u2974 u298e u29a4 u29c8 u29de u29f4 u2a0a u2a20 u2a36 u2a52 u2a68 u2a8a u2aa0 u2ab9 u2acf u2ae5 u2e43 u2e65 u2e80 u2fc1 u3018 u302f u3046 u305d u3074 u308c u30a3 u30ba u30d1 u30e8 u30ff u3116 u312d u3144 u315b u31b7 u31ce u31e5 u326e u32b4 u7d" ZeroPoint="0 0" ActiveLayer="u98" CMYKProfile="U.S. Web Coated (SWOP) v2" RGBProfile="sRGB IEC61966-2.1" SolidColorIntent="UseColorSettings" AfterBlendingIntent="UseColorSettings" DefaultImageIntent="UseColorSettings" RGBPolicy="PreserveEmbeddedProfiles" CMYKPolicy="CombinationOfPreserveAndSafeCmyk" AccurateLABSpots="false">
+	<Properties>
+		<Label>
+			<KeyValuePair Key="kAdobeDPS_Version" Value="2" />
+		</Label>
+	</Properties>
+	<Language Self="Language/$ID/English%3a USA" Name="$ID/English: USA" SingleQuotes="‘’" DoubleQuotes="“”" PrimaryLanguageName="$ID/English" SublanguageName="$ID/USA" Id="269" HyphenationVendor="Proximity" SpellingVendor="Proximity" />
+	<Language Self="Language/$ID/English%3a USA Medical" Name="$ID/English: USA Medical" SingleQuotes="‘’" DoubleQuotes="“”" PrimaryLanguageName="$ID/English" SublanguageName="$ID/USA Medical" Id="269" HyphenationVendor="Hunspell" SpellingVendor="Hunspell" />
+	<idPkg:Graphic src="Resources/Graphic.xml" />
+	<idPkg:Fonts src="Resources/Fonts.xml" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName15" Name="$ID/kMojikumiDefaultName15" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName16" Name="$ID/kMojikumiDefaultName16" />
+	<idPkg:Styles src="Resources/Styles.xml" />
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
+	<NamedGrid Self="NamedGrid/$ID/[Page Grid]" Name="$ID/[Page Grid]">
+		<GridDataInformation FontStyle="Regular" PointSize="9.21259842519685" CharacterAki="0" LineAki="6.909448818897637" HorizontalScale="100" VerticalScale="100" LineAlignment="LeftOrTopLineJustify" GridAlignment="AlignEmCenter" CharacterAlignment="AlignEmCenter">
+			<Properties>
+				<AppliedFont type="string">Times</AppliedFont>
+			</Properties>
+		</GridDataInformation>
+	</NamedGrid>
+	<idPkg:Preferences src="Resources/Preferences.xml" />
+	<LinkedStoryOption UpdateWhileSaving="false" WarnOnUpdateOfEditedStory="true" RemoveForcedLineBreaks="false" ApplyStyleMappings="false" />
+	<LinkedPageItemOption UpdateLinkWhileSaving="false" WarnOnUpdateOfEditedPageItem="true" PreserveSizeAndShape="false" PreserveAppearance="false" PreserveInteractivity="false" PreserveFrameContent="false" PreserveOthers="false" />
+	<TaggedPDFPreference StructureOrder="UseXMLStructure" />
+	<WatermarkPreference WatermarkVisibility="false" WatermarkDoPrint="false" WatermarkDrawInBack="true" WatermarkText="" WatermarkFontFamily="Minion Pro" WatermarkFontStyle="Regular" WatermarkFontPointSize="48" WatermarkOpacity="50" WatermarkRotation="0" WatermarkHorizontalPosition="WatermarkHCenter" WatermarkHorizontalOffset="0" WatermarkVerticalPosition="WatermarkVCenter" WatermarkVerticalOffset="0">
+		<Properties>
+			<WatermarkFontColor type="enumeration">Red</WatermarkFontColor>
+		</Properties>
+	</WatermarkPreference>
+	<ConditionalTextPreference ShowConditionIndicators="ShowIndicators" ActiveConditionSet="n" />
+	<HTMLFXLExportPreference EpubPageRange="" EpubPageRangeFormat="ExportAllPages" />
+	<PublishExportPreference PublishCover="FirstPage" CoverImageFile="" PublishPageRange="" PublishPageRangeFormat="ExportAllPages" ImageConversion="Automatic" ImageExportResolution="Ppi72" PublishDescription="" PublishFileName="" PublishFormat="PublishByPages" CoverPage="$ID/" GIFOptionsPalette="AdaptivePalette" JPEGOptionsQuality="High" />
+	<idPkg:Tags src="XML/Tags.xml" />
+	<Layer Self="u98" Name="Layer 1" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" UI="true" Expendable="true" Printable="true">
+		<Properties>
+			<LayerColor type="enumeration">LightBlue</LayerColor>
+		</Properties>
+	</Layer>
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_ua2.xml" />
+	<idPkg:Spread src="Spreads/Spread_u9b.xml" />
+	<idPkg:Spread src="Spreads/Spread_u13f.xml" />
+	<idPkg:Spread src="Spreads/Spread_u1a1.xml" />
+	<idPkg:Spread src="Spreads/Spread_u1ef.xml" />
+	<idPkg:Spread src="Spreads/Spread_u1a7b.xml" />
+	<idPkg:Spread src="Spreads/Spread_u23e.xml" />
+	<idPkg:Spread src="Spreads/Spread_u285.xml" />
+	<idPkg:Spread src="Spreads/Spread_u2b0.xml" />
+	<idPkg:Spread src="Spreads/Spread_u2da.xml" />
+	<idPkg:Spread src="Spreads/Spread_u309.xml" />
+	<idPkg:Spread src="Spreads/Spread_u332.xml" />
+	<idPkg:Spread src="Spreads/Spread_ufb7.xml" />
+	<idPkg:Spread src="Spreads/Spread_u1b36.xml" />
+	<Section Self="ua1" Length="24" AlternateLayoutLength="24" AlternateLayout="Custom V" Name="" ContinueNumbering="true" IncludeSectionPrefix="false" Marker="" PageStart="ua0" SectionPrefix="">
+		<Properties>
+			<PageNumberStyle type="enumeration">Arabic</PageNumberStyle>
+		</Properties>
+	</Section>
+	<DocumentUser Self="dDocumentUser0" UserName="$ID/Unknown User Name">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<DocumentUser Self="dDocumentUser1" UserName="asdf">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<CrossReferenceFormat Self="u2d3c" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2d3cBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d3cBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d3cBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d3cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2d3d" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2d3dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d3dBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d3dBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2d3e" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2d3eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d3eBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d3eBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d3eBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2d3f" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2d3fBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d3fBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d3fBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2d40" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2d40BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d40BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d40BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2d41" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2d41BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2d42" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2d42BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d42BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d42BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d42BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2d43" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2d43BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d43BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d43BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u2d44" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u2d44BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u2d44BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<idPkg:BackingStory src="XML/BackingStory.xml" />
+	<idPkg:Story src="Stories/Story_u32b4.xml" />
+	<idPkg:Story src="Stories/Story_u326e.xml" />
+	<idPkg:Story src="Stories/Story_u31e5.xml" />
+	<idPkg:Story src="Stories/Story_u31ce.xml" />
+	<idPkg:Story src="Stories/Story_u31b7.xml" />
+	<idPkg:Story src="Stories/Story_u315b.xml" />
+	<idPkg:Story src="Stories/Story_u3144.xml" />
+	<idPkg:Story src="Stories/Story_u312d.xml" />
+	<idPkg:Story src="Stories/Story_u3116.xml" />
+	<idPkg:Story src="Stories/Story_u30ff.xml" />
+	<idPkg:Story src="Stories/Story_u30e8.xml" />
+	<idPkg:Story src="Stories/Story_u30d1.xml" />
+	<idPkg:Story src="Stories/Story_u30ba.xml" />
+	<idPkg:Story src="Stories/Story_u30a3.xml" />
+	<idPkg:Story src="Stories/Story_u308c.xml" />
+	<idPkg:Story src="Stories/Story_u3074.xml" />
+	<idPkg:Story src="Stories/Story_u305d.xml" />
+	<idPkg:Story src="Stories/Story_u3046.xml" />
+	<idPkg:Story src="Stories/Story_u302f.xml" />
+	<idPkg:Story src="Stories/Story_u3018.xml" />
+	<idPkg:Story src="Stories/Story_u2fc1.xml" />
+	<idPkg:Story src="Stories/Story_u2e80.xml" />
+	<idPkg:Story src="Stories/Story_u2e65.xml" />
+	<idPkg:Story src="Stories/Story_u2e43.xml" />
+	<idPkg:Story src="Stories/Story_u2ae5.xml" />
+	<idPkg:Story src="Stories/Story_u2acf.xml" />
+	<idPkg:Story src="Stories/Story_u2ab9.xml" />
+	<idPkg:Story src="Stories/Story_u2aa0.xml" />
+	<idPkg:Story src="Stories/Story_u2a8a.xml" />
+	<idPkg:Story src="Stories/Story_u2a68.xml" />
+	<idPkg:Story src="Stories/Story_u2a52.xml" />
+	<idPkg:Story src="Stories/Story_u2a36.xml" />
+	<idPkg:Story src="Stories/Story_u2a20.xml" />
+	<idPkg:Story src="Stories/Story_u2a0a.xml" />
+	<idPkg:Story src="Stories/Story_u29f4.xml" />
+	<idPkg:Story src="Stories/Story_u29de.xml" />
+	<idPkg:Story src="Stories/Story_u29c8.xml" />
+	<idPkg:Story src="Stories/Story_u29a4.xml" />
+	<idPkg:Story src="Stories/Story_u298e.xml" />
+	<idPkg:Story src="Stories/Story_u2974.xml" />
+	<idPkg:Story src="Stories/Story_u295e.xml" />
+	<idPkg:Story src="Stories/Story_u2945.xml" />
+	<idPkg:Story src="Stories/Story_u292f.xml" />
+	<idPkg:Story src="Stories/Story_u2911.xml" />
+	<idPkg:Story src="Stories/Story_u284d.xml" />
+	<idPkg:Story src="Stories/Story_u257a.xml" />
+	<idPkg:Story src="Stories/Story_u2564.xml" />
+	<idPkg:Story src="Stories/Story_u254e.xml" />
+	<idPkg:Story src="Stories/Story_u2480.xml" />
+	<idPkg:Story src="Stories/Story_u246a.xml" />
+	<idPkg:Story src="Stories/Story_u244c.xml" />
+	<idPkg:Story src="Stories/Story_u2427.xml" />
+	<idPkg:Story src="Stories/Story_u1b86.xml" />
+	<idPkg:Story src="Stories/Story_u1b70.xml" />
+	<idPkg:Story src="Stories/Story_u1a2c.xml" />
+	<idPkg:Story src="Stories/Story_u19d3.xml" />
+	<idPkg:Story src="Stories/Story_u1840.xml" />
+	<idPkg:Story src="Stories/Story_u17ed.xml" />
+	<idPkg:Story src="Stories/Story_u17d7.xml" />
+	<idPkg:Story src="Stories/Story_u157f.xml" />
+	<idPkg:Story src="Stories/Story_u14cc.xml" />
+	<idPkg:Story src="Stories/Story_u13e8.xml" />
+	<idPkg:Story src="Stories/Story_u1119.xml" />
+	<idPkg:Story src="Stories/Story_u1103.xml" />
+	<idPkg:Story src="Stories/Story_u1036.xml" />
+	<idPkg:Story src="Stories/Story_ufa3.xml" />
+	<idPkg:Story src="Stories/Story_ue36.xml" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Symbol" Name="$ID/kIndexGroup_Symbol" Include="true" Priority="0" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Alphabet" Name="$ID/kIndexGroup_Alphabet" Include="true" Priority="1" HeaderType="BasicLatin" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Numeric" Name="$ID/kIndexGroup_Numeric" Include="false" Priority="2" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_GreekAlphabet" Name="$ID/kWRIndexGroup_GreekAlphabet" Include="false" Priority="3" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_CyrillicAlphabet" Name="$ID/kWRIndexGroup_CyrillicAlphabet" Include="false" Priority="4" HeaderType="Russian" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Kana" Name="$ID/kIndexGroup_Kana" Include="false" Priority="5" HeaderType="HiraganaAll" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Chinese" Name="$ID/kIndexGroup_Chinese" Include="false" Priority="6" HeaderType="ChinesePinyin" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Korean" Name="$ID/kIndexGroup_Korean" Include="false" Priority="7" HeaderType="KoreanConsonant" />
+	<ColorGroup Self="u2f81" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch1" SwatchItemRef="Color/Paper" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch2" SwatchItemRef="Color/Black" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch3" SwatchItemRef="Color/Registration" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch4" SwatchItemRef="Color/C=70 M=80 Y=25 K=10" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch5" SwatchItemRef="Color/r178g157b132" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch6" SwatchItemRef="Color/r132g108b79" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch7" SwatchItemRef="Color/C=70 M=50 Y=20 K=10" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch8" SwatchItemRef="Color/C=45 M=20 Y=90 K=10" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch9" SwatchItemRef="Color/C=0 M=10 Y=60 K=0" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatcha" SwatchItemRef="Color/C=0 M=20 Y=60 K=0" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatchb" SwatchItemRef="Color/C=20 M=40 Y=100 K=0" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatchc" SwatchItemRef="Color/C=0 M=40 Y=100 K=20" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatchd" SwatchItemRef="Color/C=30 M=70 Y=60 K=20" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatche" SwatchItemRef="Color/30c 70m 30y 20k" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatchf" SwatchItemRef="Color/C=0 M=70 Y=100 K=30" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch10" SwatchItemRef="Color/C=20 M=35 Y=20 K=5" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch11" SwatchItemRef="Color/c90m89y22k32" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch12" SwatchItemRef="Color/c0m0y0k20" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch13" SwatchItemRef="Color/C=70 M=40 Y=20 K=10" />
+		<ColorGroupSwatch Self="u2f81ColorGroupSwatch14" SwatchItemRef="Color/C=31 M=35 Y=49 K=1" />
+	</ColorGroup>
+	<ABullet Self="dABullet0" CharacterType="UnicodeOnly" CharacterValue="8226">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet1" CharacterType="UnicodeOnly" CharacterValue="42">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet2" CharacterType="UnicodeOnly" CharacterValue="9674">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet3" CharacterType="UnicodeWithFont" CharacterValue="187">
+		<Properties>
+			<BulletsFont type="string">Myriad Pro</BulletsFont>
+			<BulletsFontStyle type="string">$ID/Regular</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet4" CharacterType="GlyphWithFont" CharacterValue="630">
+		<Properties>
+			<BulletsFont type="string">Adobe Jenson Pro</BulletsFont>
+			<BulletsFontStyle type="string">$ID/Regular</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<Assignment Self="ua9" Name="$ID/UnassignedInCopy" UserName="$ID/" ExportOptions="AssignedSpreads" IncludeLinksWhenPackage="true" FilePath="$ID/">
+		<Properties>
+			<FrameColor type="enumeration">Nothing</FrameColor>
+		</Properties>
+	</Assignment>
+</Document>

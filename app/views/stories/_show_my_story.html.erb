@@ -1,0 +1,9 @@
+<% unless @story.text.nil? %>
+    <% if @story.text.length > 0 %>
+        <div class="panel panel-default panel-shadow">
+          <div class="panel-body">
+            <%= @story.text.html_safe if @story.text %>
+          </div>
+        </div>
+    <% end %>
+<% end %>

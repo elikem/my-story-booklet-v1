@@ -1,0 +1,50 @@
+<script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+        $('.image-lightbox').magnificPopup({type:'image'});
+    });
+</script>
+
+<div id="main">
+
+  <br/>
+
+  <%= render 'sub_navigation' %>
+
+  <div class="page-header">
+    <div class="row">
+      <div class="col-md-12">
+        <br/>
+        <h4 class="headline"><i class="md md-thumb-up"></i> MY STORY EDITOR EXAMPLE</h4>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-6">
+      <div class="panel panel-default panel-image panel-light-grey panel-shadow">
+        <div>
+          <a href="/assets/StoryEditor.jpg" class="image-lightbox" data-title="Before: Story Editor">
+            <%= image_tag 'StoryEditor', class: 'panel-image-preview' %>
+          </a>
+        </div>
+        <div class="panel-body">
+          <p>Your story should look similar to this.</p>
+          <p>Take a look at <%= link_to 'My Story Checklist', story_path(current_user.username) %></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="panel panel-default panel-image panel-light-grey panel-shadow">
+        <div>
+          <a href="/assets/FirstPage.jpg" class="image-lightbox" data-title="After: My Story Booklet">
+            <%= image_tag 'FirstPage', class: 'panel-image-preview' %>
+          </a>
+        </div>
+        <div class="panel-body">
+          <p>The final product is a well-formatted My Story Booklet</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

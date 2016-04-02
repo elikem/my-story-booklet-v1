@@ -1,0 +1,17 @@
+<div class="panel panel-default panel-shadow" style="<%= 'display:none;' if @story.text.nil? %>">
+  <div class="panel-heading panel-heading-light-grey">
+    <h4 class="panel-title">Publish <%= @user.username.titlecase %>'s Story Story</h4>
+  </div>
+
+  <div class="panel-body">
+    <% unless @story.text.nil? %>
+        <% if @story.publish? %>
+            <p>Not completely finished?</p>
+            <p><%= link_to 'Publish now', publish_admin_story_path, method: :post, class: 'btn btn-default-light bold disabled', disabled: 'disabled', style: 'margin-right: 13px;' %> <%= link_to 'Undo publish', unpublish_admin_story_path, method: :post, class: 'btn btn-primary bold' %></p>
+        <% else %>
+            <p>Done with your story?</p>
+            <p><%= link_to 'Publish now', publish_admin_story_path, method: :post, class: 'btn btn-primary bold', style: 'margin-right: 13px;' %> <%= link_to 'Undo publish', unpublish_admin_story_path, method: :post, class: 'btn btn-default-light bold disabled', disabled: 'disabled' %></p>
+        <% end %>
+    <% end %>
+  </div>
+</div>

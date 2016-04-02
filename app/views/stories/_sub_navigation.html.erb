@@ -1,0 +1,28 @@
+<nav class="navbar navbar-default sub-navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#sub-navigation" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="" style="pointer-events: none; cursor: default;">Story Navigation</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="sub-navigation">
+      <ul class="nav navbar-nav">
+        <% if @story.text.nil? || @story.text.length == 0 %>
+            <li class="<%= current_class?(story_path(current_user.username)) %>"><a href="<%= story_path(current_user.username) %>">My Story Checklist</a></li>
+            <li class="<%= current_class?(edit_story_path(current_user.username)) %>"><a href="<%= edit_story_path(current_user.username) %>">Start My Story</a></li>
+        <% else %>
+            <li class="<%= current_class?(story_path(current_user.username)) %>"><a href="<%= story_path(current_user.username) %>">Show My Story</a></li>
+            <li class="<%= current_class?(edit_story_path(current_user.username)) %>"><a href="<%= edit_story_path(current_user.username) %>">Edit My Story</a></li>
+        <% end %>
+        <li class="<%= current_class?(example_path) %>"><a href="<%= example_path %>">My Story Example</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>

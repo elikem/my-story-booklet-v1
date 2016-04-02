@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u326e" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<XMLElement Self="di2i4" MarkupTag="XMLTag/story" XMLContent="u326e">
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Story Paragraph">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>temporum enit quod qui non net, ommoditaspel mi, quiscil lectur mo quatem simusae conecum ullatem oluptat et dolor atur mod minusam is paria quunt etustem pernatu reribeaque dellore icip.Itatent eumquibus sitistibus, comni sed ullendellam, ut velibus audit imus aut imus solesti scimaxima duciam liaepud itaepudis niminctio. Ecab idendis diorum aut omnihit, si omnis ea que il intis nobit, conse intium fuga. </Content>
+					<Br />
+					<Content>Axim volupist, nimus, nia aut assimag natiorrorest faceped unt quame quam, quam, ut et quis et ut eum nus eosa volorro qui qui rero blam quam eos ut omnimus nos expedit quia cum quis estrum ipsamenimped que volorum, simendi dolorum et ilique magnati issimporest repelit inctatur, qui ne intiis as et volutest eaquia natemoluptas venimporia con nimilis eliquidunt mo esentio blacest delent essi ommo berume vel in pe quia dellessim et hiliquuntium quuntis tioriae venis quid explam est aut ex et opta sant.</Content>
+					<Br />
+					<Content>Puda veles aperum estiaep erempos atectur ad quias dolo berchit expliquiam, to maionse lant peritae consequo eriate laborum quist, quatur, apiendelic te ex entustium volorioressi volupta ecesequi uta nis prem experionsed quatiuriost quae provid qui dolupti onsequae. Itatest rese volorepe dolupis mint.</Content>
+					<Br />
+					<Content>Unt lam aligeni minctatibus, offictur? Eventia quati omnis es doluptate cust, officil ipsam, comnis cum cum autest doluptam experis doloreruntia doluptaqui nobis nobita cor sam ad eri cus.</Content>
+					<Br />
+					<Content>Ducitios voluptis exceperibus, intius eicium ea duciand usaperspedit alis expe eum quoditiant at enemolu ptatum facima es autent voluptat eatempo rerrum sererspis dolora volestiorum et et aut adio. </Content>
+					<Br />
+					<Content>Or am net lic totatia is seque lab ium quosaec temquodit vendam, id ut am con ne exere duciist, quunt.</Content>
+					<Br />
+					<Content>Del id  quatur facts cusam invellatem di uta nulpa santias et volest autempo reperiam, omnis aut fugitas reptatur?</Content>
+					<Br />
+					<Content>Pudaere persperchil il molorepreri alibust, ut eum, quosam rehendandem conseque voles et magnim illaborae od quisquo volores repudit atibus ducit volut voluptatur?</Content>
+					<Br />
+					<Content>Ducitios voluptis exceperibus, intius eicium ea duciand usaperspedit alis expe eum quoditiant at enemolu ptatum facima es autent voluptat eatempo rerrum sererspis dolora volestiorum et et aut adio. </Content>
+					<Br />
+					<Content>Or am net lic totatia is seque lab ium quosaec temquodit vendam, id ut am con ne exere duciist, quunt. Temquodit vendam, id ut am on ne exerisess. Del id  q volest autempo reperiam, omnis aureptatursh molorepreri alibust.</Content>
+					<Br />
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+		</XMLElement>
+	</Story>
+</idPkg:Story>

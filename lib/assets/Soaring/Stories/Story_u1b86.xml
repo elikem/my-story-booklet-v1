@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="11.0">
+	<Story Self="u1b86" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="37.08080708361867" RuleAboveLineWeight="1.1101981394611387" RuleBelowLineWeight="1.1101981394611387" Justification="RightAlign">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="7" HorizontalScale="92.77825123084399" StrokeWeight="1.0693591413390087" RubyFontSize="-1.1101981394611387" RubyXScale="92.77825123084399" KentenFontSize="-1.1101981394611387" KentenXScale="92.77825123084399">
+				<Properties>
+					<Leading type="unit">8</Leading>
+					<AppliedFont type="string">Myriad Pro</AppliedFont>
+				</Properties>
+				<Content>The Significance Project</Content>
+				<Br />
+				<Content>100 Lake Hart Drive #2100</Content>
+				<Br />
+				<Content>Orlando, FL 32832-0100</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
