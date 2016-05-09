@@ -24,4 +24,4 @@ storage/
 config/application.yml
 .env
 vendor/cache
-public/assets
+public/assets.env

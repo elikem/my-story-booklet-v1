@@ -33,6 +33,7 @@ gem 'friendly_id', '~> 5.1.0'
 gem 'uniform_notifier'
 gem 'will_paginate'
 gem 'slack-notifier'
+gem 'puma'
 
 group :production do
   gem 'rails_12factor'
