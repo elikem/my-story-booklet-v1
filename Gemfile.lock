@@ -346,9 +346,6 @@ GEM
       sprockets (>= 2.8, < 4.0)
       sprockets-rails (>= 2.0, < 4.0)
       tilt (~> 1.1)
-    shelly-dependencies (0.2.5)
-      rake
-      thin
     sidekiq (3.4.2)
       celluloid (~> 0.16.0)
       connection_pool (~> 2.2, >= 2.2.0)
@@ -379,10 +376,6 @@ GEM
     thor (0.19.1)
     thread_safe (0.3.5)
     tilt (1.4.1)
-    timecop (0.8.0)
-    timecop-console (0.3.1)
-      railties (>= 3.1, < 5.0)
-      timecop (>= 0.5)
     timers (4.0.1)
       hitimes
     turbolinks (2.5.3)
@@ -449,12 +442,10 @@ DEPENDENCIES
   s3_uploader
   sanitize
   sass-rails (~> 5.0)
-  shelly-dependencies
   sidekiq
   sinatra
   slack-notifier
   spring
-  timecop-console
   turbolinks
   uglifier (>= 1.3.0)
   uniform_notifier

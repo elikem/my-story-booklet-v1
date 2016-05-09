@@ -36,7 +36,6 @@ gem 'slack-notifier'
 
 group :production do
   gem 'rails_12factor'
-  gem 'shelly-dependencies'
 end
 
 group :development, :test do
@@ -57,7 +56,4 @@ group :development, :test do
   gem 'pry-rails'
 end
 
-group :development, :staging do
-  gem 'timecop-console', :require => 'timecop_console'
-end
 
