@@ -32,8 +32,9 @@ class Api::StoriesController < ApplicationController
   end
 
   def user_story_object
-    if User.try(:find_by_username, params[:id])
-      @user = User.find_by_username(params[:id])
+    @user = User.find_by_username(params[:id])
+
+    if @user
       @story = @user.story
     end
   end
