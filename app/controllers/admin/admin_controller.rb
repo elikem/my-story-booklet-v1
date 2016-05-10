@@ -10,62 +10,34 @@ class Admin::AdminController < ApplicationController
   end
 
   def create_api_key
-    @api_key = ApiKey.create_key(params[:name])
-
-    if @api_key.save
-      flash[:info] = 'API Key created.'
-      redirect_to admin_api_key_path
-    else
-      flash[:error] = 'API Key was not created.'
-      redirect_to admin_api_key_path
-    end
+    api_key_action(:create_key, 'created')
   end
 
   def regenerate_api_key
-    @api_key = ApiKey.generate_key(params[:name])
-
-    if @api_key
-      flash[:info] = 'API Key regenerated.'
-      redirect_to admin_api_key_path
-    else
-      flash[:error] = 'API Key was not regenerated.'
-      redirect_to admin_api_key_path
-    end
+    api_key_action(:generate_key, 'regenerated')
   end
 
   def deactivate_api_key
-    @api_key = ApiKey.deactivate_key(params[:name])
-
-    if @api_key
-      flash[:info] = 'API Key deactivated.'
-      redirect_to admin_api_key_path
-    else
-      flash[:error] = 'API Key not deactivated.'
-      redirect_to admin_api_key_path
-    end
+    api_key_action(:deactivate_key, 'deactivated')
   end
 
   def activate_api_key
-    @api_key = ApiKey.activate_key(params[:name])
-
-    if @api_key
-      flash[:info] = 'API Key activated.'
-      redirect_to admin_api_key_path
-    else
-      flash[:error] = 'API Key not activated.'
-      redirect_to admin_api_key_path
-    end
+    api_key_action(:activate_key, 'activated')
   end
 
   def destroy_api_key
-    @api_key = ApiKey.delete_key(params[:name])
+    api_key_action(:delete_key, 'deleted')
+  end
+
+  def api_key_action(method, message_verb)
+    @api_key = ApiKey.send(method, params[:name])
 
     if @api_key
-      flash[:info] = 'API Key destroyed.'
-      redirect_to admin_api_key_path
+      flash[:info] = "API Key #{message_verb}."
     else
-      flash[:error] = 'API Key not destroyed.'
-      redirect_to admin_api_key_path
+      flash[:error] = "API Key not #{message_verb}."
     end
+
+    redirect_to admin_api_key_path
   end
 end
