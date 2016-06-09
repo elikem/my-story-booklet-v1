@@ -18,8 +18,7 @@ gem 'database_cleaner'
 gem 'font-awesome-rails'
 gem 'wysiwyg-rails'
 gem 'sinatra', :require => nil
-# gem 'therubyracer'
-gem 'fog'
+gem 'fog-aws'
 gem 'whenever', :require => false
 gem 's3_uploader'
 gem 'dumper'
@@ -34,6 +33,7 @@ gem 'uniform_notifier'
 gem 'will_paginate'
 gem 'slack-notifier'
 gem 'puma'
+gem 'shrine'
 
 group :production do
   gem 'rails_12factor'

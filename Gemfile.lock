@@ -101,6 +101,7 @@ GEM
       responders
       thread_safe (~> 0.1)
       warden (~> 1.2.3)
+    down (2.2.0)
     dumper (1.6.0)
       multi_json (>= 1.0)
       multipart-post (>= 1.1.5)
@@ -347,6 +348,8 @@ GEM
       sprockets (>= 2.8, < 4.0)
       sprockets-rails (>= 2.0, < 4.0)
       tilt (~> 1.1)
+    shrine (2.0.0)
+      down (>= 2.2.0)
     sidekiq (3.4.2)
       celluloid (~> 0.16.0)
       connection_pool (~> 2.2, >= 2.2.0)
@@ -420,7 +423,7 @@ DEPENDENCIES
   devise
   dumper
   faker
-  fog
+  fog-aws
   font-awesome-rails
   foreman
   friendly_id (~> 5.1.0)
@@ -444,6 +447,7 @@ DEPENDENCIES
   s3_uploader
   sanitize
   sass-rails (~> 5.0)
+  shrine
   sidekiq
   sinatra
   slack-notifier
