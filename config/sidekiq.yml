@@ -9,3 +9,4 @@ production:
   - default
   - mailers
   - create_and_publish_story
+  - upload_to_s3

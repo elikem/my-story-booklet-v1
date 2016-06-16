@@ -49,7 +49,6 @@ group :development, :test do
   gem 'binding_of_caller'
   gem 'meta_request'
   gem 'mailcatcher'
-  gem 'rubocop', require: false
   gem 'bullet'
   gem 'quiet_assets'
   gem 'pry'

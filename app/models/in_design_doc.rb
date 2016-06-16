@@ -28,6 +28,10 @@ class InDesignDoc < ActiveRecord::Base
     TextCleaner.clean_story(story.text)
   end
 
+  def get_publication_id
+    self.story.publication_id
+  end
+
   def get_user_name
     self.story.user.username
   end
@@ -66,7 +70,7 @@ class InDesignDoc < ActiveRecord::Base
   end
 
   def idml_file_path
-    "#{user_folder}/#{get_user_name}.idml"
+    "#{user_folder}/#{get_publication_id}.idml"
   end
 
   private
@@ -75,7 +79,7 @@ class InDesignDoc < ActiveRecord::Base
     if Dir.exists? user_folder
       if Dir.exists? user_story_folder
         # delete the idml file if the user folder and soaring folder exists
-        %x( cd "#{user_folder}" && rm -rf Soaring ) if File.file? "#{user_story_folder}/#{get_user_name}.idml"
+        %x( cd "#{user_folder}" && rm -rf Soaring ) if File.file? "#{user_story_folder}/#{get_publication_id}.idml"
       end
     else
       # since the user folder does not exist create it
@@ -103,9 +107,9 @@ class InDesignDoc < ActiveRecord::Base
 
   def create_idml_file
     %x( cd "#{user_story_folder}" && zip -X0 "#{get_user_name}.idml" mimetype )
-    %x( cd "#{user_story_folder}" && zip -rDX9 "#{get_user_name}.idml" * -x '*.DS_Store' -x mimetype )
+    %x( cd "#{user_story_folder}" && zip -rDX9 "#{get_publication_id}.idml" * -x '*.DS_Store' -x mimetype )
 
-    %x( cd "#{user_folder}" && mv Soaring/"#{get_user_name}".idml ./ && rm -rf Soaring )
+    %x( cd "#{user_folder}" && mv Soaring/"#{get_publication_id}".idml ./ && rm -rf Soaring )
   end
 
   def template_builder(template)

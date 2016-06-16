@@ -1,5 +1,14 @@
 require 'fog/aws'
 
+# p Upload.new.to_s3(filename: 'IMG_3910.JPG', remote_path: 'users/username')
+# p Upload.new.get_url(remote_path: 'users/username', filename: 'IMG_3910.JPG')
+
+# remote_path -- the folder on S3
+# local_path -- the file path including the filename of the file
+# filename -- just the filename of the file
+# key -- the S3 API for the file path and file name
+# body -- the S3 API for the file's path
+
 class Upload
   def connection
     Fog::Storage.new(
@@ -20,14 +29,10 @@ class Upload
 
     if remote_path
       key = "#{remote_path}/#{filename}"
-    else
-      key = filename
     end
 
     if local_path
-      body = "#{local_path}/#{filename}"
-    else
-      body = filename
+      body = "#{local_path}"
     end
 
     bucket.files.create(

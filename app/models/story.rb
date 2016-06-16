@@ -32,7 +32,6 @@ class Story < ActiveRecord::Base
     errors.add(:story, "length is currently #{count}. It must be less than 3000 characters") unless count < 3000
   end
 
-
   def create_in_design_doc
     InDesignDoc.create(story_id: self.id)
   end
