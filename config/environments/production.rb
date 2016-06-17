@@ -86,10 +86,11 @@ Rails.application.configure do
       :user_name            => 'tsw@cru.org',
       :password             => ENV['TSW_EMAIL_PASSWORD'],
       :authentication       => 'plain',
-      :enable_starttls_auto => true
+      :enable_starttls_auto => true,
+      :tls => true
   }
 
-  # Redis configuration for Clever Cloud
+  # Redis configuration
   Sidekiq.configure_server do |config|
     config.redis = { url: ENV['REDIS_URL'] }
   end
