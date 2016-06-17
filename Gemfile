@@ -33,7 +33,8 @@ gem 'uniform_notifier'
 gem 'will_paginate'
 gem 'slack-notifier'
 gem 'puma'
-gem 'shrine'
+gem 'rollbar'
+gem 'oj', '~> 2.12.14'
 
 group :production do
   gem 'rails_12factor'

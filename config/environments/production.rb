@@ -89,7 +89,7 @@ Rails.application.configure do
       :enable_starttls_auto => true
   }
 
-  # Redis configuration
+  # Redis configuration for Clever Cloud
   Sidekiq.configure_server do |config|
     config.redis = { url: ENV['REDIS_URL'] }
   end
