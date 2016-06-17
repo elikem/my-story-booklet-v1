@@ -1,5 +1,0 @@
-# config/deploy/shelly/before_restart
-set -e
-
-mkdir -p disk/storage
-ln -s disk/storage storage
