@@ -29,8 +29,8 @@ module MyStoryBooklet
     config.assets.precompile += %w( vendor.js vendor.css )
 
     # Add app/assets/fonts to the asset path
-    # config.assets.paths << Rails.root.join("app", "assets", "fonts")
-    # not needed because Rails 4 already accommodates fonts folder
+    # might not needed because Rails 4 already accommodates fonts folder
+    config.assets.paths << Rails.root.join('app', 'assets', 'fonts')
 
     # Autoload lib
     config.autoload_paths << Rails.root.join('lib')
