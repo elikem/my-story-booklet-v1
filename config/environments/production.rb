@@ -86,8 +86,7 @@ Rails.application.configure do
       :user_name            => 'tsw@cru.org',
       :password             => ENV['TSW_EMAIL_PASSWORD'],
       :authentication       => 'plain',
-      :enable_starttls_auto => true,
-      :tls => true
+      :enable_starttls_auto => true
   }
 
   # Redis configuration
