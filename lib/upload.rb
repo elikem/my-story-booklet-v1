@@ -42,16 +42,38 @@ class Upload
     )
   end
 
-  def get_url(options = {})
+  def get_file(options = {})
+    full_remote_path = options.fetch(:full_remote_path, false)
     remote_path = options.fetch(:remote_path, false)
     filename = options.fetch(:filename)
 
     if remote_path
       file = "#{remote_path}/#{filename}"
-    else
-      file = filename
     end
 
-    bucket.files.get(file).public_url
+    if full_remote_path
+      file = full_remote_path
+    end
+
+    bucket.files.get(file)
+  end
+
+  def delete_file(options = {})
+    get_file(options).destroy
+  end
+
+  def get_url(options = {})
+    get_file(options).public_url
+  end
+
+  def list_folder_contents(path)
+    files = connection.directories.get('my-story-booklet', prefix: path).files
+
+    filename_and_dates = {}
+    files.map do |file|
+      filename_and_dates.merge!({file.key => file.last_modified})
+    end
+
+    filename_and_dates.delete_if { |k, v| k == "users/test/" }
   end
 end

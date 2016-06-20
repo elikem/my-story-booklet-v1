@@ -31,7 +31,6 @@ class StoriesController < ApplicationController
     story.update(publication_id: publication_id) unless Story.find_by_publication_id(publication_id)
 
     # Bakground job to publish story
-    # PublishStoryJob.set(wait_until: 60.seconds).perform_later(story.id)
     PublishStoryJob.perform_later(story.id)
 
     # Flash and exit controller

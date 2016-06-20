@@ -24,4 +24,5 @@ storage/
 config/application.yml
 .env
 vendor/cache
-public/assets.env
+public/assets
+dump.rdb
