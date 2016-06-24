@@ -45,7 +45,7 @@ class Upload
   def get_file(options = {})
     full_remote_path = options.fetch(:full_remote_path, false)
     remote_path = options.fetch(:remote_path, false)
-    filename = options.fetch(:filename)
+    filename = options.fetch(:filename, false)
 
     if remote_path
       file = "#{remote_path}/#{filename}"
@@ -68,12 +68,13 @@ class Upload
 
   def list_folder_contents(path)
     files = connection.directories.get('my-story-booklet', prefix: path).files
+    files.delete(path)
 
     filename_and_dates = {}
     files.map do |file|
       filename_and_dates.merge!({file.key => file.last_modified})
     end
 
-    filename_and_dates.delete_if { |k, v| k == "users/test/" }
+    filename_and_dates
   end
 end
