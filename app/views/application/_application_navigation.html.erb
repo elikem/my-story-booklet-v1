@@ -10,22 +10,21 @@
         <i class="md md-more-vert"></i>
       </button>
     </div>
+
     <div class="collapse navbar-collapse" id="main-navigation">
       <ul class="nav navbar-nav">
         <li class="<%= user_signed_in? ? current_class?(story_path(current_user.username)) : '' %>">
           <a href="<%= user_signed_in? ? story_path(current_user.username) : new_user_session_path %>">My Story</a>
         </li>
-        <li><%= link_to 'Sample Booklet', '/Cru_Soaring_Booklet.pdf', :target => '_blank' %></li>
+        <li>
+          <%= link_to 'Sample Booklet', '/Cru_Soaring_Booklet.pdf', :target => '_blank' %>
+        </li>
         <li class="<%= current_class?(training_worksheet_path) %>">
           <a href="<%= training_worksheet_path %>">Training Worksheet</a>
         </li>
       </ul>
+
       <ul class="nav navbar-nav navbar-right hidden-xs">
-        <% if current_user.try(:admin?) %>
-        <button class="btn btn-default-light navbar-btn pull-left" style="background-color: orange;"> 
-          <a href="<%= admin_path %>" style="color: white;"><i class="md md-settings"></i> </a>
-        </button>
-        <% end %>
         <li class="dropdown"> 
           <a href="#" style="text-decoration: none; padding: 0 !important; color: #f4511e !important;" data-toggle="dropdown"><i class="md md-wrap-text"></i> Menu <span class="caret"></span></a> 
           <ul class="dropdown-menu dropdown-caret dropdown-caret-right dropdown-menu-auto"> 
