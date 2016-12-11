@@ -2,23 +2,48 @@
   <div class="container full-width">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle visible-xs collapsed pull-left" data-toggle="collapse" data-target="#main-navigation">
+      <button type="button" class="navbar-toggle visible-xs collapsed pull-left" data-toggle="collapse"
+              data-target="#main-navigation">
         <i class="md md-menu"></i>
       </button>
-      <a class="navbar-brand" href="/">My Story Booklet</a>
+      <a class="navbar-brand" href="<%= story_path(current_user.username) %>">My Story Booklet</a>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navigation">
       <ul class="nav navbar-nav">
-        <li class="<%= user_signed_in? ? current_class?(story_path(current_user.username)) : '' %>">
-          <a href="<%= user_signed_in? ? story_path(current_user.username) : new_user_session_path %>">My Story</a>
+        <li class="<%= current_class?(story_path(current_user.username)) %>">
+          <a href="<%= story_path(current_user.username) %>">My Story</a>
         </li>
+
+        <li class="visible-xs">
+          <ul>
+            <li><a href="">My Story Checklist</a></li>
+            <li><a href="">Start My Story</a></li>
+            <li><a href="">My Story Example</a></li>
+          </ul>
+        </li>
+
+        <li class="menu-separator">
+          <hr>
+        </li>
+
         <li>
           <%= link_to 'Sample Booklet', '/Cru_Soaring_Booklet.pdf', :target => '_blank' %>
         </li>
+
         <li class="<%= current_class?(training_worksheet_path) %>">
           <a href="<%= training_worksheet_path %>">Training Worksheet</a>
         </li>
+
+        <li class="menu-separator">
+          <hr>
+        </li>
+
+        <li class="visible-xs"><%= link_to edit_user_registration_path do %><span style="color: #616161;"> Account Settings</span><% end %></li>
+
+        <li class="visible-xs"><%= link_to 'mailto:tsw@cru.org' do %><span style="color: #616161;"> Contact Us</span><% end %></li>
+
+        <li class="visible-xs"><%= link_to destroy_user_session_path do %><span class="text-orange"> Logout</span><% end %></li>
       </ul>
 
       <ul class="nav navbar-nav navbar-right hidden-xs">

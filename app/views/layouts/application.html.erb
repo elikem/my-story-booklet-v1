@@ -27,26 +27,6 @@
 <!-- Admin Navigation -->
 <%= render 'admin/admin_navigation_panel' %>
 
-<div class="sidebar right-side" id="sidebar-right">
-  <!-- Wrapper Reqired by Nicescroll -->
-  <div class="nicescroll">
-    <div class="wrapper">
-      <ul class="nav nav-sidebar" id="sidebar-menu">
-        <% if current_user.try(:admin?) %>
-            <li><a href="<%#= admin_path %>"><i class="md md-lock-open"></i> Admin</a></li>
-        <% end %>
-        <li><a href="mailto:tsw@cru.org"><i class="md md-email"></i> Contact Us</a></li>
-        <li><a href="<%= edit_user_registration_path %>"><i class="md md-settings"></i> Settings</a></li>
-        <li>
-          <a href="<%= user_signed_in? ? destroy_user_session_path : new_user_session_path %>"><i class="md md-exit-to-app"></i> <%= user_signed_in? ? 'Logout' : 'Sign In' %>
-          </a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-
 <div class="container">
   <% flash.each do |type, message| %>
       <div id="notification" data-position="top-right" data-type="<%= type %>" class="display-none">
@@ -80,6 +60,7 @@
 <script>
     $("a[data-toggle=dropdown]").dropdown();
 </script>
-
 </body>
 </html>
+
+<%= console %>
