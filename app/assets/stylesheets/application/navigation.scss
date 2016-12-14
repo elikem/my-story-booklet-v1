@@ -9,3 +9,8 @@
 .sub-navigation .navbar-brand {
   font-weight: normal;
 }
+
+// admin nav burger menu should not be visible when the main nav menu is active
+.navbar-default .navbar-toggle {
+  z-index: 1000;
+}
