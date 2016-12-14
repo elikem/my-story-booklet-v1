@@ -22,7 +22,8 @@
 <body class="sidebar-push">
 
 <!-- Application Navigation -->
-<%= render 'application/application_navigation' %>
+<%= render 'application/application_navigation' unless
+        controller_name == 'sessions' || controller_name == 'registrations' || controller_name == 'confirmations' || controller_name == 'passwords' %>
 
 <!-- Admin Navigation -->
 <%= render 'admin/admin_navigation_panel' %>

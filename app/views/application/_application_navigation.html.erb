@@ -11,15 +11,19 @@
 
     <div class="collapse navbar-collapse" id="main-navigation">
       <ul class="nav navbar-nav">
-        <li class="<%= current_class?(story_path(current_user.username)) %>">
+        <li class="<%= current_class?(request.path) if (params[:controller] == 'stories' && (params[:action] == 'show' || params[:action] == 'edit')) %>">
           <a href="<%= story_path(current_user.username) %>">My Story</a>
         </li>
 
         <li class="visible-xs">
           <ul>
-            <li><a href="">My Story Checklist</a></li>
-            <li><a href="">Start My Story</a></li>
-            <li><a href="">My Story Example</a></li>
+            <% if current_user.story.text.nil? || current_user.story.text.length == 0 %>
+                <li class="<%= current_class?(story_path(current_user.username)) %>"><a href="<%= story_path(current_user.username) %>">My Story Checklist</a></li>
+                <li class="<%= current_class?(edit_story_path(current_user.username)) %>"><a href="<%= edit_story_path(current_user.username) %>">Start My Story</a></li>
+            <% else %>
+                <li class="<%= current_class?(story_path(current_user.username)) %>"><a href="<%= story_path(current_user.username) %>">Show My Story</a></li>
+                <li class="<%= current_class?(edit_story_path(current_user.username)) %>"><a href="<%= edit_story_path(current_user.username) %>">Edit My Story</a></li>
+            <% end %>
           </ul>
         </li>
 
